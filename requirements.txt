@@ -1,0 +1,9 @@
+streamlit
+pyperclip
+python-dotenv
+openai
+pandas
+requests
+langchain
+Pillow
+tqdm
