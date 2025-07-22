@@ -1,8 +1,0 @@
-{
-  "language": "auto",
-  "base_mood": "romantic",
-  "include_suno_prompt": true,
-  "include_leonardo_prompt": true,
-  "emoji_style": true
-}
-
